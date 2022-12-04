@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.first{
+    text-align: center;
+    color: white;
+    background-color: rgb(4, 4, 72);
+}
+.first a{
+    color: inherit;
+}
+.second{
+    color: brown;
+}
+.second a{
+    color: inherit;
+}
+.sree{
+    text-align: center;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+#one{
+    color: white;
+    background-color: rgb(4, 4, 72) ;
+}
+.kanth{
+    text-align: center;
+    color: white;
+}
+.kanth a{
+    color: inherit;
+}
+#sree1{
+    text-align: center;
+}
